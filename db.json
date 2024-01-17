@@ -2,10 +2,10 @@
   "clientes": [
     {
       "id": 1,
-      "nombre": "Jon Snow",
-      "email": "jonsnow@gmail.com",
+      "nombre": "Andres huerta",
+      "email": "andres@gmail.com",
       "edad": 35,
-      "telefono": "(665)121-5454",
+      "telefono": "(443)121-5454",
       "nivelAcceso": "administrador"
     },
     {
