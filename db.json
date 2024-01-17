@@ -14,7 +14,7 @@
       "email": "cerseilannister@gmail.com",
       "edad": 42,
       "telefono": "(421)314-2288",
-      "nivelAcceso": "manedadr"
+      "nivelAcceso": "manager"
     },
     {
       "id": 3,
@@ -46,7 +46,7 @@
       "email": "evermelisandre@gmail.com",
       "edad": 150,
       "telefono": "(232)545-6483",
-      "nivelAcceso": "manedadr"
+      "nivelAcceso": "manager"
     },
     {
       "id": 7,
